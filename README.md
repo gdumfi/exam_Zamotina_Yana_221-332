@@ -2,8 +2,10 @@
 
 ## DOCKER commands
 ```sh
-docker build -t test .
-docker run  --name testtt -p 33333:33333 -t -i test
+docker login
+docker build -t gdumfi/test .
+docker push gdumfi/test
+docker run  --name testtt -p 33333:33333 -t -i gdumfi/test
 ```
 DockerHub with image https://hub.docker.com/repository/docker/gdumfi/exam/general
 ## Git comands
