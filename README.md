@@ -5,6 +5,7 @@
 docker build -t test .
 docker run  --name testtt -p 33333:33333 -t -i test
 ```
+DockerHub with image https://hub.docker.com/repository/docker/gdumfi/exam/general
 ## Git comands
 Для того чтобы сделать ветку
 ```sh
