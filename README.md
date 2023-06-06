@@ -14,3 +14,4 @@ git checkout -b название ветки
 git push <ссылка на репозиторий> <название ветки>
 
 ```
+![image](https://github.com/gdumfi/exam_Zamotina_Yana_221-332/assets/44841897/e4efe63a-c437-4631-a468-363c9b4f29cb)
