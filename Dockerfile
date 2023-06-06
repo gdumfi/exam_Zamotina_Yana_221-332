@@ -1,6 +1,6 @@
 FROM ubuntu
 
-MAINTAINER Smirnov_Daniil 
+MAINTAINER Zamotina Yana 221-332
 
 ENV TZ=Europe/Moscow
 RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
